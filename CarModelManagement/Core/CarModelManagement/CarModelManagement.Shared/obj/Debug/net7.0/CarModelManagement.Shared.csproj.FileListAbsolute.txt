@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Shared\bin\Debug\net7.0\CarModelManagement.Shared.deps.json
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Shared\bin\Debug\net7.0\CarModelManagement.Shared.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Shared\bin\Debug\net7.0\CarModelManagement.Shared.pdb
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Shared\obj\Debug\net7.0\CarModelManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Shared\obj\Debug\net7.0\CarModelManagement.Shared.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Shared\obj\Debug\net7.0\CarModelManagement.Shared.AssemblyInfo.cs
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Shared\obj\Debug\net7.0\CarModelManagement.Shared.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Shared\obj\Debug\net7.0\CarModelManagement.Shared.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Shared\obj\Debug\net7.0\refint\CarModelManagement.Shared.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Shared\obj\Debug\net7.0\CarModelManagement.Shared.pdb
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Shared\obj\Debug\net7.0\ref\CarModelManagement.Shared.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Shared\obj\Debug\net7.0\CarModelManagement.Shared.sourcelink.json

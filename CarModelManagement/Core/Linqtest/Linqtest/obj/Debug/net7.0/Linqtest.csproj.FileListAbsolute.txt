@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\bin\Debug\net7.0\Linqtest.exe
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\bin\Debug\net7.0\Linqtest.deps.json
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\bin\Debug\net7.0\Linqtest.runtimeconfig.json
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\bin\Debug\net7.0\Linqtest.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\bin\Debug\net7.0\Linqtest.pdb
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\obj\Debug\net7.0\Linqtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\obj\Debug\net7.0\Linqtest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\obj\Debug\net7.0\Linqtest.AssemblyInfo.cs
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\obj\Debug\net7.0\Linqtest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\obj\Debug\net7.0\Linqtest.sourcelink.json
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\obj\Debug\net7.0\Linqtest.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\obj\Debug\net7.0\refint\Linqtest.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\obj\Debug\net7.0\Linqtest.pdb
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\obj\Debug\net7.0\Linqtest.genruntimeconfig.cache
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\Linqtest\Linqtest\obj\Debug\net7.0\ref\Linqtest.dll

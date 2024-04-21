@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\bin\Debug\net7.0\CarModelManagement.Core.Domain.deps.json
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\bin\Debug\net7.0\CarModelManagement.Core.Domain.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\bin\Debug\net7.0\CarModelManagement.Core.Domain.pdb
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\obj\Debug\net7.0\CarModelManagement.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\obj\Debug\net7.0\CarModelManagement.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\obj\Debug\net7.0\CarModelManagement.Core.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\obj\Debug\net7.0\CarModelManagement.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\obj\Debug\net7.0\CarModelManagement.Core.Domain.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\obj\Debug\net7.0\refint\CarModelManagement.Core.Domain.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\obj\Debug\net7.0\CarModelManagement.Core.Domain.pdb
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\obj\Debug\net7.0\ref\CarModelManagement.Core.Domain.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\obj\Debug\net7.0\CarModelManagement.Core.Domain.sourcelink.json
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\bin\Debug\net7.0\CarModelManagement.infra.Domain.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\bin\Debug\net7.0\CarModelManagement.infra.Domain.pdb
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\obj\Debug\net7.0\CarModelManagement.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\CarModelManagement\CarModelManagement.Core.Domain\obj\Debug\net7.0\CarModelManagement.Core.Domain.csproj.CopyComplete

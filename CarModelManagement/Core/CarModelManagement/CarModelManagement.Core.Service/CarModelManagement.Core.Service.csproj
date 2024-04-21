@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CarModelManagement.Core.Contract\CarModelManagement.Core.Contract.csproj" />
+    <ProjectReference Include="..\CarModelManagement.Core.Domain\CarModelManagement.Core.Domain.csproj" />
+    <ProjectReference Include="..\CarModelManagement.infra.Contract\CarModelManagement.infra.Contract.csproj" />
+    <ProjectReference Include="..\CarModelManagement.infra.Domain\CarModelManagement.infra.Domain.csproj" />
+    <ProjectReference Include="..\CarModelManagement.infra.Repository\CarModelManagement.infra.Repository.csproj" />
+    <ProjectReference Include="..\CarModelManagement.Shared\CarModelManagement.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

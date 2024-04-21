@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\bin\Debug\net7.0\LinqPracticeTest.exe
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\bin\Debug\net7.0\LinqPracticeTest.deps.json
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\bin\Debug\net7.0\LinqPracticeTest.runtimeconfig.json
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\bin\Debug\net7.0\LinqPracticeTest.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\bin\Debug\net7.0\LinqPracticeTest.pdb
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\obj\Debug\net7.0\LinqPracticeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\obj\Debug\net7.0\LinqPracticeTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\obj\Debug\net7.0\LinqPracticeTest.AssemblyInfo.cs
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\obj\Debug\net7.0\LinqPracticeTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\obj\Debug\net7.0\LinqPracticeTest.sourcelink.json
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\obj\Debug\net7.0\LinqPracticeTest.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\obj\Debug\net7.0\refint\LinqPracticeTest.dll
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\obj\Debug\net7.0\LinqPracticeTest.pdb
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\obj\Debug\net7.0\LinqPracticeTest.genruntimeconfig.cache
+C:\Users\user\source\repos\CarModelManagement\CarModelManagement\Core\LinqPracticeTest\LinqPracticeTest\obj\Debug\net7.0\ref\LinqPracticeTest.dll
